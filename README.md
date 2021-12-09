@@ -7,3 +7,5 @@ Integrantes:
 Jeffrey Orihuela
 
 Juan Vargas
+
+Herless Alvarado
